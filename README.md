@@ -1,6 +1,4 @@
 # -- Monitor de Notícias --
-<img width="4032" height="642" alt="image" src="https://github.com/user-attachments/assets/dca21a5c-773e-4acf-a32e-408a1b202254" />
-
 
 Sistema de monitoramento automatizado de notícias com coleta em múltiplos portais de mídia via RSS, identificação de temas, monitoramento de menções a atores políticos e análise de sentimento utilizando Inteligência Artificial.
 
