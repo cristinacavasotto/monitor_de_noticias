@@ -1,0 +1,7 @@
+
+pandas
+feedparser
+transformers
+sentencepiece
+plotly
+torch
